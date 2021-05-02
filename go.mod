@@ -1,4 +1,4 @@
-module github.com/Tethik/zengge-lightcontrol
+module github.com/vikstrous/zengge-lightcontrol
 
 go 1.14
 
